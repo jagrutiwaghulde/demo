@@ -20,7 +20,7 @@ void split(struct block *fitting_slot,size_t size)
  fitting_slot->free=0;
  fitting_slot->next=new;
 }
-
+//this is jagruti
 /*Function MyMalloc(malloc)*/
 void *MyMalloc(size_t noOfBytes)
 {
